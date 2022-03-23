@@ -1,0 +1,24 @@
+{
+	"posts": [
+		{
+			"id": 1,
+			"title": "welcome",
+			"body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis nobis quaerat nam repellendus quidem, sed facilis adipisci dicta eum est accusamus, reprehenderit inventore iusto cumque labore officia. Aliquid, consequatur atque.",
+			"tags": [
+				"webdev",
+				"coding",
+				"news"
+			]
+		},
+		{
+			"id": 1,
+			"title": "Top 5 Vue3 Features",
+			"body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis nobis quaerat nam repellendus quidem, sed facilis adipisci dicta eum est accusamus, reprehenderit inventore iusto cumque labore officia. Aliquid, consequatur atque.",
+			"tags": [
+				"webdev",
+				"coding",
+				"Vue3"
+			]
+		}
+	]
+}
